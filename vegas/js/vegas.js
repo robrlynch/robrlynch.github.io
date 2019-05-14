@@ -1,3 +1,3 @@
 var numPlayers = prompt('how many players today');
 numPlayers = parseInt(numPlayers);
-document.write(numplayers *4);
+document.write(numPlayers *4);
