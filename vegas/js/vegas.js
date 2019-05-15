@@ -10,5 +10,5 @@ if (numPlayers=4) {
 
 
 document.write(Player1);
-document.write('<h1>Hi! '+ Player1 + Player2 + ' </h1>');
+document.write('<h1>Hi '+ Player1 ', '+ Player2 + ', ' + Player3 + ', ' + Player4 +'!!! </h1>');
 //Player1 + ', ' + Player2 + ', ' + Player3 + ', ' + Player4 
