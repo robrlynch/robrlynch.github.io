@@ -1,6 +1,6 @@
 var numPlayers = prompt('how many players today');
 numPlayers = parseInt(numPlayers);
-document.write(numPlayers *4);
+
 if (numPlayers=4) {
     var Player1 = prompt('Player1 First Name');
     var Player2 = prompt('Player2 First Name');
@@ -10,5 +10,5 @@ if (numPlayers=4) {
 
 
 document.write(Player1);
-    //document.write('<h1>Hi ' Player1 + ', ' + Player2 + ', ' + Player3 + ', ' + Player4 '</h1>');
+document.write('<h1>Hi ' Player1 + ', ' + Player2 + ', ' + Player3 + ', ' + Player4 '</h1>');
 document.write('test');
