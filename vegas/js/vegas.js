@@ -10,4 +10,5 @@ if (numPlayers=4) {
 
 
 document.write('<h1>Hi '+ Player1 + ', '+ Player2);
+//change
 //+ ', ' + Player3 + ', ' + Player4 + '!!! </h1>'
